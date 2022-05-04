@@ -1,0 +1,16 @@
+D:\HackerRank\Divisivle Sum Pairs\bin\Debug\net5.0\Divisivle Sum Pairs.exe
+D:\HackerRank\Divisivle Sum Pairs\bin\Debug\net5.0\Divisivle Sum Pairs.deps.json
+D:\HackerRank\Divisivle Sum Pairs\bin\Debug\net5.0\Divisivle Sum Pairs.runtimeconfig.json
+D:\HackerRank\Divisivle Sum Pairs\bin\Debug\net5.0\Divisivle Sum Pairs.runtimeconfig.dev.json
+D:\HackerRank\Divisivle Sum Pairs\bin\Debug\net5.0\Divisivle Sum Pairs.dll
+D:\HackerRank\Divisivle Sum Pairs\bin\Debug\net5.0\ref\Divisivle Sum Pairs.dll
+D:\HackerRank\Divisivle Sum Pairs\bin\Debug\net5.0\Divisivle Sum Pairs.pdb
+D:\HackerRank\Divisivle Sum Pairs\obj\Debug\net5.0\Divisivle Sum Pairs.csproj.AssemblyReference.cache
+D:\HackerRank\Divisivle Sum Pairs\obj\Debug\net5.0\Divisivle Sum Pairs.GeneratedMSBuildEditorConfig.editorconfig
+D:\HackerRank\Divisivle Sum Pairs\obj\Debug\net5.0\Divisivle Sum Pairs.AssemblyInfoInputs.cache
+D:\HackerRank\Divisivle Sum Pairs\obj\Debug\net5.0\Divisivle Sum Pairs.AssemblyInfo.cs
+D:\HackerRank\Divisivle Sum Pairs\obj\Debug\net5.0\Divisivle Sum Pairs.csproj.CoreCompileInputs.cache
+D:\HackerRank\Divisivle Sum Pairs\obj\Debug\net5.0\Divisivle Sum Pairs.dll
+D:\HackerRank\Divisivle Sum Pairs\obj\Debug\net5.0\ref\Divisivle Sum Pairs.dll
+D:\HackerRank\Divisivle Sum Pairs\obj\Debug\net5.0\Divisivle Sum Pairs.pdb
+D:\HackerRank\Divisivle Sum Pairs\obj\Debug\net5.0\Divisivle Sum Pairs.genruntimeconfig.cache

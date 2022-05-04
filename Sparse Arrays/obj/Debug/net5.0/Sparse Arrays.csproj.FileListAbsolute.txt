@@ -1,0 +1,16 @@
+D:\HackerRank\Sparse Arrays\bin\Debug\net5.0\Sparse Arrays.exe
+D:\HackerRank\Sparse Arrays\bin\Debug\net5.0\Sparse Arrays.deps.json
+D:\HackerRank\Sparse Arrays\bin\Debug\net5.0\Sparse Arrays.runtimeconfig.json
+D:\HackerRank\Sparse Arrays\bin\Debug\net5.0\Sparse Arrays.runtimeconfig.dev.json
+D:\HackerRank\Sparse Arrays\bin\Debug\net5.0\Sparse Arrays.dll
+D:\HackerRank\Sparse Arrays\bin\Debug\net5.0\ref\Sparse Arrays.dll
+D:\HackerRank\Sparse Arrays\bin\Debug\net5.0\Sparse Arrays.pdb
+D:\HackerRank\Sparse Arrays\obj\Debug\net5.0\Sparse Arrays.csproj.AssemblyReference.cache
+D:\HackerRank\Sparse Arrays\obj\Debug\net5.0\Sparse Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\HackerRank\Sparse Arrays\obj\Debug\net5.0\Sparse Arrays.AssemblyInfoInputs.cache
+D:\HackerRank\Sparse Arrays\obj\Debug\net5.0\Sparse Arrays.AssemblyInfo.cs
+D:\HackerRank\Sparse Arrays\obj\Debug\net5.0\Sparse Arrays.csproj.CoreCompileInputs.cache
+D:\HackerRank\Sparse Arrays\obj\Debug\net5.0\Sparse Arrays.dll
+D:\HackerRank\Sparse Arrays\obj\Debug\net5.0\ref\Sparse Arrays.dll
+D:\HackerRank\Sparse Arrays\obj\Debug\net5.0\Sparse Arrays.pdb
+D:\HackerRank\Sparse Arrays\obj\Debug\net5.0\Sparse Arrays.genruntimeconfig.cache
