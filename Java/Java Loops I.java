@@ -15,12 +15,8 @@ Print 10 lines of output; each line i (where 1 <= i <= 10) contains the result o
 N x i = result.
 */
 import java.io.*;
-import java.math.*;
-import java.security.*;
-import java.text.*;
-import java.util.*;
 
-public class Solution {
+class Solution {
     public static void main(String[] args) throws IOException {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
 

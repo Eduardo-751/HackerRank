@@ -1,3 +1,4 @@
+
 /*
 Most HackerRank challenges require you to read input from stdin (standard input) and write output to stdout (standard output).
 
@@ -25,15 +26,16 @@ There are 3 lines of input, and each line contains a single integer.
 */
 import java.util.*;
 
-public class Solution {
+class Solution {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int a = scan.nextInt();
         int b = scan.nextInt();
         int c = scan.nextInt();
-        
+
         System.out.println(a);
         System.out.println(b);
         System.out.println(c);
+        scan.close();
     }
 }

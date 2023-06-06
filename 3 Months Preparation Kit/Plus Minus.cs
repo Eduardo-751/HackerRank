@@ -45,30 +45,24 @@ using System;
 
 class Result
 {
-
-    /*
-     * Complete the 'plusMinus' function below.
-     *
-     * The function accepts INTEGER_ARRAY arr as parameter.
-     */
-
     public static void plusMinus(List<int> arr, int n)
     {
         float positive = 0;
         float negative = 0;
         float neutral = 0;
-        
-        foreach(int element in arr){
-            if(element>0)
+
+        foreach (int element in arr)
+        {
+            if (element > 0)
                 positive++;
-            
-            else if(element < 0)
+
+            else if (element < 0)
                 negative++;
-            
+
             else
                 neutral++;
         }
-        Console.WriteLine($"{Math.Round(positive/n, 6)}\n{Math.Round(negative/n, 6)}\n{Math.Round(neutral/n, 6)}");
+        Console.WriteLine($"{Math.Round(positive / n, 6)}\n{Math.Round(negative / n, 6)}\n{Math.Round(neutral / n, 6)}");
     }
 
 }

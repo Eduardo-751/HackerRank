@@ -1,3 +1,4 @@
+
 /*
  We use the integers a, b, and n to create the following series:
 
@@ -15,20 +16,19 @@ Output Format
 For each query, print the corresponding series on a new line. Each series must be printed in order as a single line of n space-separated integers.
  */
 import java.util.*;
-import java.io.*;
 
-class Solution{
-    public static void main(String []argh){
+class Solution {
+    public static void main(String[] argh) {
         Scanner in = new Scanner(System.in);
-        int t=in.nextInt();
-        for(int i=0;i<t;i++){
+        int t = in.nextInt();
+        for (int i = 0; i < t; i++) {
             int a = in.nextInt();
             int b = in.nextInt();
             int n = in.nextInt();
             int r = a;
-            for(int i2=0;i2<n;i2++){
-               r = r + (int)(Math.pow(2,i2)*b);
-               System.out.printf("%d ", r);
+            for (int i2 = 0; i2 < n; i2++) {
+                r = r + (int) (Math.pow(2, i2) * b);
+                System.out.printf("%d ", r);
             }
             System.out.printf("\n");
         }

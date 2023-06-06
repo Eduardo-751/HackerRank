@@ -1,3 +1,4 @@
+
 /*
  Java's System.out.printf function can be used to print formatted output. The purpose of this exercise is to test your understanding of formatting output using printf.
 
@@ -15,20 +16,18 @@ The first column contains the String and is left justified using exactly 15 char
 The second column contains the integer, expressed in exactly 3 digits; if the original input has less than three digits, you must pad your output's leading digits with zeroes.
  */
 import java.util.Scanner;
-import java.text.DecimalFormat;
 
-public class Solution {
+class Solution {
 
     public static void main(String[] args) {
-            DecimalFormat ft = new DecimalFormat( "000" ) ;  
-            Scanner sc=new Scanner(System.in);
-            System.out.println("================================");
-            for(int i=0;i<3;i++){
-                String s1=sc.next();
-                int x=sc.nextInt();
-                System.out.printf("%-14s %03d\n", s1, x);
-            }
-            System.out.println("================================");
-
+        Scanner sc = new Scanner(System.in);
+        System.out.println("================================");
+        for (int i = 0; i < 3; i++) {
+            String s1 = sc.next();
+            int x = sc.nextInt();
+            System.out.printf("%-14s %03d\n", s1, x);
+        }
+        System.out.println("================================");
+        sc.close();
     }
 }

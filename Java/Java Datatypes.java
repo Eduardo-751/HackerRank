@@ -1,3 +1,4 @@
+
 /*
 Java has 8 primitive data types; char, boolean, byte, short, int, long, float, and double. For this exercise, we'll work with the primitives used to hold integer values (byte, short, int, and long):
 
@@ -21,11 +22,9 @@ Output Format
 For each input variable  and appropriate primitive , you must determine if the given primitives are capable of storing it. If yes, then print:
 */
 import java.util.*;
-import java.io.*;
 
-class Solution{
-    public static void main(String []argh)
-    {
+class Solution {
+    public static void main(String[] argh) {
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();
 

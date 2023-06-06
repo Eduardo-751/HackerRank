@@ -7,16 +7,16 @@ In order to access the memory address of a variable, val, prepend it with & sign
 
 This memory address is assigned to a pointer and can be shared among various functions. For example, int* p=&val will assign the memory address of val to pointer p. To access the content of the memory to which the pointer points, prepend it with a *. For example, *p will return the value reflected by val and any modification to it will be reflected at the source (val).
 
-	void increment(int *v) {
-        (*v)++; 
+    void increment(int *v) {
+        (*v)++;
     }
-      	int main() {
+        int main() {
         int a;
         scanf("%d", &a);
         increment(&a);
         printf("%d", a);
-    	return 0;      
-    }     
+        return 0;
+    }
 
 Input Format
 
@@ -34,23 +34,24 @@ Sample Input        Sample Output
 */
 #include <stdio.h>
 
-void update(int *a,int *b) {
-    // Complete this function    
+void update(int *a, int *b)
+{
     int auxa, auxb;
     auxa = *a;
     auxb = *b;
-    
-    *a = auxa+auxb;
-    if(auxa > auxb)
-        *b = auxa-auxb;
+
+    *a = auxa + auxb;
+    if (auxa > auxb)
+        *b = auxa - auxb;
     else
-        *b = auxb-auxa;
+        *b = auxb - auxa;
 }
 
-int main() {
+int main()
+{
     int a, b;
     int *pa = &a, *pb = &b;
-    
+
     scanf("%d %d", &a, &b);
     update(pa, pb);
     printf("%d\n%d", a, b);

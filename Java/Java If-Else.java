@@ -1,3 +1,4 @@
+
 /*
 In this challenge, we test your knowledge of using if-else conditional statements to automate decision-making processes. An if-else statement has the following logical flow:
 
@@ -22,13 +23,9 @@ Output Format
 
 Print Weird if the number is weird; otherwise, print Not Weird.
 */
-import java.io.*;
-import java.math.*;
-import java.security.*;
-import java.text.*;
-import java.util.*;
+import java.util.Scanner;
 
-public class Solution {
+class Solution {
 
     private static final Scanner scanner = new Scanner(System.in);
 
@@ -37,19 +34,16 @@ public class Solution {
         scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
 
         scanner.close();
-        
-        if(N%2==0){
-            if(N>20){
+
+        if (N % 2 == 0) {
+            if (N > 20) {
                 System.out.println("Not Weird");
-            }
-            else if(N>5){
+            } else if (N > 5) {
                 System.out.println("Weird");
-            }
-            else{
+            } else {
                 System.out.println("Not Weird");
             }
-        }
-        else
+        } else
             System.out.println("Weird");
     }
 }

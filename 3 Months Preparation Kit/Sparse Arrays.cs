@@ -39,28 +39,26 @@ class Solution
         TextWriter textWriter = new StreamWriter(@System.Environment.GetEnvironmentVariable("OUTPUT_PATH"), true);
 
         int stringsCount = Convert.ToInt32(Console.ReadLine().Trim());
-        //List<string> strings = new List<string>();
-        var stringMap = new Dictionary<string, int>();        
+        var stringMap = new Dictionary<string, int>();
         for (int i = 0; i < stringsCount; i++)
         {
             string stringsItem = Console.ReadLine();
-            if(stringMap.ContainsKey(stringsItem))
+            if (stringMap.ContainsKey(stringsItem))
                 stringMap[stringsItem]++;
             else
                 stringMap.Add(stringsItem, 1);
         }
 
         int queriesCount = Convert.ToInt32(Console.ReadLine().Trim());
-        //List<string> queries = new List<string>();
         var queriesMap = new Dictionary<string, int>();
         var output = new int[queriesCount];
         for (int i = 0; i < queriesCount; i++)
         {
             string queriesItem = Console.ReadLine();
-            if(stringMap.ContainsKey(queriesItem))
+            if (stringMap.ContainsKey(queriesItem))
                 output[i] = stringMap[queriesItem];
         }
-        
+
         textWriter.WriteLine(String.Join("\n", output));
 
         textWriter.Flush();

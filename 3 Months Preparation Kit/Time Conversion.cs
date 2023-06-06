@@ -24,24 +24,27 @@ string: the time in 24 hour format
 
 A single string  that represents a time in 12-hour clock format (i.e.: hh:mm:ssAM or hh:mm:ssPM).
 */
-
 using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 
-class Result{
+class Result
+{
 
-    public static string timeConversion(string s){
+    public static string timeConversion(string s)
+    {
         DateTime d = DateTime.Parse(s);
         return d.ToString("HH:mm:ss");
     }
 
 }
 
-class Solution{
+class Solution
+{
 
-    public static void Main(string[] args){
+    public static void Main(string[] args)
+    {
         TextWriter textWriter = new StreamWriter(@System.Environment.GetEnvironmentVariable("OUTPUT_PATH"), true);
 
         string s = Console.ReadLine();

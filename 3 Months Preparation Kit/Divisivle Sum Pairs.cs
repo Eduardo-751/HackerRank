@@ -41,15 +41,19 @@ using System.Text.RegularExpressions;
 using System.Text;
 using System;
 
-class Result{
+class Result
+{
 
-    public static int divisibleSumPairs(int n, int k, List<int> ar){
-        //Dictionary<int, int> HashMap = new Dictionary<int, int>();
+    public static int divisibleSumPairs(int n, int k, List<int> ar)
+    {
         ar.Sort();
         int sum = 0;
-        for(int i = 0; i < n-1; i++){
-            for(int i2 = i+1; i2<n; i2++){
-                if((ar[i]+ar[i2]) % k == 0){
+        for (int i = 0; i < n - 1; i++)
+        {
+            for (int i2 = i + 1; i2 < n; i2++)
+            {
+                if ((ar[i] + ar[i2]) % k == 0)
+                {
                     sum++;
                 }
             }

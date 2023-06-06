@@ -1,3 +1,4 @@
+
 /*
  n this challenge, you must read an integer, a double, and a String from stdin, then print the values according to the instructions in the Output Format section below. To make the problem a little easier, a portion of the code is provided for you in the editor.
 
@@ -21,7 +22,7 @@ To make the problem easier, a portion of the code is already provided in the edi
  */
 import java.util.Scanner;
 
-public class Solution {
+class Solution {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int i = scan.nextInt();
@@ -32,5 +33,6 @@ public class Solution {
         System.out.println("String: " + s);
         System.out.println("Double: " + d);
         System.out.println("Int: " + i);
+        scan.close();
     }
 }

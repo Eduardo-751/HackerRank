@@ -24,13 +24,13 @@ Sample Input 0          Sample Output 0
 #include <math.h>
 #include <stdlib.h>
 
-int main() {
-	
+int main()
+{
+
     int n;
     scanf("%d", &n);
-    //Complete the code to calculate the sum of the five digits on n.
-    int sum; 
-    sum = n%100000/10000 + n%10000/1000 + n%1000/100 + n%100/10 + n%10;
+    int sum;
+    sum = n % 100000 / 10000 + n % 10000 / 1000 + n % 1000 / 100 + n % 100 / 10 + n % 10;
     printf("%d", sum);
     return 0;
 }
