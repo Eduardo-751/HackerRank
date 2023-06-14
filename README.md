@@ -18,3 +18,14 @@ HackerRank helps companies hire skilled developers and innovate faster!
 #### HackerRank Profile:
 
 [Eduardo Camargo](https://www.hackerrank.com/edu_s_camargo97)
+
+## HackerRank Badges
+
+![C](/Icons/C_Badges_Icon.png)
+![Java](/Icons/Java_Badges_Icon.png)
+
+## HackerRank Certificates
+
+<a href="/Java_Basic_Certificate.PNG">
+    <img src="/Icons/Java_Certificate_Icon.PNG" alt="Java (Basic) Certificate"/>
+</a>
