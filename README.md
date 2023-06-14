@@ -4,12 +4,7 @@
 
 ## HackerRank Solutions
 
-solutions to HackerRank practice problems using C, C# and Java.
-<br/><br/>
-
-## HackerRank Profile:
-
-[View Profile](https://www.hackerrank.com/edu_s_camargo97)
+This repository consists of solutions to HackerRank problems using C, C# and Java.
 <br/><br/>
 
 ## HackerRank Badges
@@ -29,3 +24,7 @@ By enabling tech recruiters and hiring managers to objectively evaluate talent a
 HackerRank helps companies hire skilled developers and innovate faster!
 
 [HackerRank Website](https://www.hackerrank.com/dashboard)
+
+#### HackerRank Profile:
+
+[View Profile](https://www.hackerrank.com/edu_s_camargo97)
