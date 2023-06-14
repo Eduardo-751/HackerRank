@@ -34,11 +34,11 @@ HackerRank helps companies hire skilled developers and innovate faster!
 
 ## HackerRank Badges
 
-![C](/Certificate%20and%20Badges/Icons/C_Badges_Icon.png)
-![Java](/Certificate%20and%20Badges/Icons/Java_Badges_Icon.png)
+![C](/Icons/C_Badges_Icon.png)
+![Java](/Icons/Java_Badges_Icon.png)
 
 ## HackerRank Certificates
 
-<a href="Certificate%20and%20Badges/Java_Basic_Certificate.PNG">
-    <img src="/Certificate%20and%20Badges/Icons/Java_Certificate_Icon.PNG" alt="Java (Basic) Certificate"/>
+<a href="/Java_Basic_Certificate.PNG">
+    <img src="/Icons/Java_Certificate_Icon.PNG" alt="Java (Basic) Certificate"/>
 </a>
