@@ -6,7 +6,7 @@
 
 | Problem Name                                            | Level |    Status |
 | ------------------------------------------------------- | :---: | --------: |
-| [📂](./Plus%20Minus.c)Plus Minus                        | Basic | Solved ✅ |
+| [📂](./Plus%20Minus.cs)Plus Minus                       | Basic | Solved ✅ |
 | [📂](./Mini-Max%20Sum.cs)Mini-Max Sum                   | Basic | Solved ✅ |
 | [📂](./Time%20Conversion.cs)Time Conversion             | Basic | Solved ✅ |
 | [📂](./Breaking%20the%20Records.cs)Breaking the Records | Basic | Solved ✅ |
@@ -18,16 +18,16 @@
 
 #### Second Week
 
-| Problem Name                           | Level |      Status |
-| -------------------------------------- | :---: | ----------: |
-| [📂](./Lonely Integer.c)Lonely Integer | Basic |   Solved ✅ |
-| Grading Students                       | Basic | Unsolved ❌ |
-| Flipping bits                          | Basic | Unsolved ❌ |
-| Diagonal Difference                    | Basic | Unsolved ❌ |
-| Counting Sort 1                        | Basic | Unsolved ❌ |
-| Counting Valleys                       | Basic | Unsolved ❌ |
-| Pangrams                               | Basic | Unsolved ❌ |
-| Mars Exploration                       | Basic | Unsolved ❌ |
+| Problem Name                              | Level |      Status |
+| ----------------------------------------- | :---: | ----------: |
+| [📂](./Lonely%20Integer.cs)Lonely Integer | Basic |   Solved ✅ |
+| Grading Students                          | Basic | Unsolved ❌ |
+| Flipping bits                             | Basic | Unsolved ❌ |
+| Diagonal Difference                       | Basic | Unsolved ❌ |
+| Counting Sort 1                           | Basic | Unsolved ❌ |
+| Counting Valleys                          | Basic | Unsolved ❌ |
+| Pangrams                                  | Basic | Unsolved ❌ |
+| Mars Exploration                          | Basic | Unsolved ❌ |
 
 <br/>
 
