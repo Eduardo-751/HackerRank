@@ -4,7 +4,7 @@
 
 | Title                                                                                             | Difficulty | Points |      Status |
 | ------------------------------------------------------------------------------------------------- | :--------: | :----: | ----------: |
-| [📂](./"Hello%20World!"%20in%20C.c) "Hello World!" in C                                           |    Easy    |   5    |   Solved ✅ |
+| [📂](./Hello%20World!%20in%20C.c) "Hello World!" in C                                           |    Easy    |   5    |   Solved ✅ |
 | [📂](./Playing%20With%20Characters.c) Playing With Characters                                     |    Easy    |   5    |   Solved ✅ |
 | [📂](./Sum%20and%20Difference%20of%20Two%20Numbers.c) Sum and Difference of Two Numbers           |    Easy    |   5    |   Solved ✅ |
 | [📂](./Functions%20in%20C.c) Functions in C                                                       |    Easy    |   10   |   Solved ✅ |
