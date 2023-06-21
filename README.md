@@ -11,7 +11,7 @@ solutions to HackerRank practice problems using C, C# and Java.
 | Category                                                               | Documented | Total problems |
 | ---------------------------------------------------------------------- | :--------: | :------------: |
 | [Java Preparation ](./Java%20Preparation/README.md)                    |     9      |       63       |
-| [C Preparation ](./C%20Preparation/README.md)                          |     16     |       25       |
+| [C Preparation ](./C%20Preparation/README.md)                          |     17     |       25       |
 | [3 Months Preparation Kit](./3%20Months%20Preparation%20Kit/README.md) |     8      |      104       |
 | [Problem Solving](./Problem%20Solving/README.md)                       |     1      |      352       |
 | Total                                                                  |     34     |      544       |

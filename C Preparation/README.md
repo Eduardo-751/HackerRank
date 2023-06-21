@@ -4,7 +4,7 @@
 
 | Title                                                                                             | Difficulty | Points |      Status |
 | ------------------------------------------------------------------------------------------------- | :--------: | :----: | ----------: |
-| [📂](./Hello%20World!%20in%20C.c) "Hello World!" in C                                           |    Easy    |   5    |   Solved ✅ |
+| [📂](./Hello%20World!%20in%20C.c) "Hello World!" in C                                             |    Easy    |   5    |   Solved ✅ |
 | [📂](./Playing%20With%20Characters.c) Playing With Characters                                     |    Easy    |   5    |   Solved ✅ |
 | [📂](./Sum%20and%20Difference%20of%20Two%20Numbers.c) Sum and Difference of Two Numbers           |    Easy    |   5    |   Solved ✅ |
 | [📂](./Functions%20in%20C.c) Functions in C                                                       |    Easy    |   10   |   Solved ✅ |
@@ -20,7 +20,7 @@
 | [📂](./Calculate%20the%20Nth%20term.c) Calculate the Nth term                                     |    Easy    |   15   |   Solved ✅ |
 | [📂](./Students%20Marks%20Sum.c) Students Marks Sum                                               |    Easy    |   20   |   Solved ✅ |
 | [📂](./Boxes%20through%20a%20Tunnel.c) Boxes through a Tunnel                                     |    Easy    |   25   |   Solved ✅ |
-| Printing Tokens                                                                                   |   Medium   |   20   | Unsolved ❌ |
+| [📂](./Printing%Tokens.c)Printing Tokens                                                          |   Medium   |   20   |   Solved ✅ |
 | Dynamic Array in C                                                                                |   Medium   |   40   | Unsolved ❌ |
 | Sorting Array of Strings                                                                          |    Hard    |   40   | Unsolved ❌ |
 | Permutations of Strings                                                                           |   Medium   |   40   | Unsolved ❌ |
