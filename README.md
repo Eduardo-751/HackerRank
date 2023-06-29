@@ -4,7 +4,7 @@
 
 ## HackerRank Solutions
 
-This repository contains my solutions to various coding challenges and problems from HackerRank. Each problem is solved using different programming languages, including C, C# and Java.
+solutions to HackerRank practice problems using C, C# and Java.
 
 ## Problems Solved
 
@@ -13,14 +13,18 @@ This repository contains my solutions to various coding challenges and problems 
 | [Java Preparation ](./Java%20Preparation/README.md)                    |     9      |       63       |
 | [C Preparation ](./C%20Preparation/README.md)                          |     17     |       25       |
 | [3 Months Preparation Kit](./3%20Months%20Preparation%20Kit/README.md) |     8      |      104       |
-| [Problem Solving](./Problem%20Solving/README.md)                       |     1      |      352       |
-| Total                                                                  |     34     |      544       |
+| [Problem Solving](./Problem%20Solving/README.md)                       |     2      |      352       |
+| Total                                                                  |     36     |      544       |
 
 <br/>
 
 ## About HackerRank
 
-[HackerRank](https://www.hackerrank.com/dashboard) is a platform that provides coding challenges and contests to help developers enhance their coding skills. This repository serves as a collection of my solutions to these challenges. The solutions are organized by problem category and programming language for easy navigation and reference.
+HackerRank is a technology hiring platform that is the standard for assessing developer skills for over 2,800+ companies around the world.
+By enabling tech recruiters and hiring managers to objectively evaluate talent at every stage of the recruiting process,
+HackerRank helps companies hire skilled developers and innovate faster!
+
+[HackerRank Website](https://www.hackerrank.com/dashboard)
 
 #### HackerRank Profile:
 

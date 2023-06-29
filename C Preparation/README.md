@@ -20,7 +20,7 @@
 | [📂](./Calculate%20the%20Nth%20term.c) Calculate the Nth term                                     |    Easy    |   15   |   Solved ✅ |
 | [📂](./Students%20Marks%20Sum.c) Students Marks Sum                                               |    Easy    |   20   |   Solved ✅ |
 | [📂](./Boxes%20through%20a%20Tunnel.c) Boxes through a Tunnel                                     |    Easy    |   25   |   Solved ✅ |
-| [📂](./Printing%20Tokens.c)Printing Tokens                                                          |   Medium   |   20   |   Solved ✅ |
+| [📂](./Printing%20Tokens.c)Printing Tokens                                                        |   Medium   |   20   |   Solved ✅ |
 | Dynamic Array in C                                                                                |   Medium   |   40   | Unsolved ❌ |
 | Sorting Array of Strings                                                                          |    Hard    |   40   | Unsolved ❌ |
 | Permutations of Strings                                                                           |   Medium   |   40   | Unsolved ❌ |
